@@ -1,0 +1,12 @@
+
+header {
+    background-color: blue;
+    width: 1440px;
+    height: 56px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 32px;
+}
+
